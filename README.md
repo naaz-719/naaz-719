@@ -44,14 +44,13 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Microsoft_Azure.svg" width="45" height="45"/>
 
 </p>
 
 
 ###  Currently Learning
 
-Apache Spark • Databricks • Microsoft Fabric • Data Pipelines • Scalable Data Processing
+Apache Spark • Databricks • Microsoft Fabric • Data Pipelines • Scalable Data Processing • Microsoft Azure
  
 </div>
 
