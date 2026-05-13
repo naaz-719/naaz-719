@@ -21,7 +21,7 @@
 ###
 
 <div align="center">
-  ### 💻 Languages
+  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
@@ -47,7 +47,7 @@
 </p>
 
 
-# 📚 Currently Learning
+###  Currently Learning
 
 Apache Spark • Databricks • Data Pipelines • Scalable Data Processing
  
