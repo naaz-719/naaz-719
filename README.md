@@ -22,63 +22,35 @@
 
 <div align="center">
   ### 💻 Languages
-
-<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
-</p>
 
-Python • SQL
-
----
-
-### 📊 Data Analytics
-
-<p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" height="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="70" height="45"/>
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="70" height="45"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="70" height="45"/>
+
 <img src="https://matplotlib.org/_static/images/logo2.svg" width="70" height="45"/>
-</p>
 
-Power BI • Excel • Pandas • NumPy • Matplotlib
-
----
-
-### 🗄️ Databases
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
-</p>
 
-MySQL • PostgreSQL
-
----
-
-### 🛠️ Tools
-
-<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45"/>
+
 </p>
 
-Git • GitHub • VS Code • Jupyter Notebook
 
----
-
-### 📚 Currently Learning
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
-</p>
+# 📚 Currently Learning
 
 Apache Spark • Databricks • Data Pipelines • Scalable Data Processing
-
-  
+ 
 </div>
 
 ###
