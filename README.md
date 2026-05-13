@@ -48,7 +48,7 @@
 
 </p>
   
-<h3 align="left">Currently Learning</h3>
+<h3 align="center">Currently Learning</h3>
 
 Apache Spark • Databricks • Microsoft Fabric • Data Pipelines • Scalable Data Processing • Microsoft Azure
  
