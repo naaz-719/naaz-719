@@ -46,11 +46,9 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45"/>
 
-
 </p>
-
-
-###  Currently Learning
+  
+<h3 align="left">Currently Learning</h3>
 
 Apache Spark • Databricks • Microsoft Fabric • Data Pipelines • Scalable Data Processing • Microsoft Azure
  
