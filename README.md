@@ -15,6 +15,7 @@
 <p align="left">I am a passionate Computer Science graduate specializing in Artificial Intelligence & Machine Learning with a strong interest in Data Analytics, Data Science, and data engineering workflows. I enjoy working with data to build dashboards, analyze trends, create machine learning solutions, and explore end-to-end data pipelines. Skilled in Python, SQL, Power BI, and data visualization.</p>  
 <p>I am currently focused on strengthening my knowledge in analytics, machine learning, and scalable data processing through hands-on projects, continuous learning and staying up to date with modern data technologies and industry trends.</p>   
 <p>  - 🔗 LinkedIn: https://www.linkedin.com/in/naaz-m-1a764b388</p>  
+<p>  - 🔗 Portfolio Website: https://portfoliowebsite.naazmulla9195.workers.dev/</p> 
 
 ###
 
